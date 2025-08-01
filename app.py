@@ -4,6 +4,8 @@ import PyPDF2
 import re
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
+
 from rake_nltk import Rake
 
 # --- Helper functions ---
