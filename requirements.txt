@@ -10,11 +10,13 @@ gitdb==4.0.12
 GitPython==3.1.45
 idna==3.10
 Jinja2==3.1.6
+joblib==1.5.1
 jsonschema==4.25.0
 jsonschema-specifications==2025.4.1
 lxml==6.0.0
 MarkupSafe==3.0.2
 narwhals==2.0.1
+nltk==3.9.1
 numpy==2.3.2
 packaging==25.0
 pandas==2.3.1
@@ -26,7 +28,9 @@ PyPDF2==3.0.1
 python-dateutil==2.9.0.post0
 python-docx==1.2.0
 pytz==2025.2
+rake-nltk==1.0.6
 referencing==0.36.2
+regex==2025.7.34
 requests==2.32.4
 rpds-py==0.26.0
 six==1.17.0
@@ -35,6 +39,7 @@ streamlit==1.47.1
 tenacity==9.1.2
 toml==0.10.2
 tornado==6.5.1
+tqdm==4.67.1
 typing_extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
